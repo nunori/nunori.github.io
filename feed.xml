@@ -4,7 +4,7 @@
   <id>https://nunori.github.io/</id>
   <title>누노리 샌드박스</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-17T15:46:40+09:00</updated>
+  <updated>2024-12-17T16:34:37+09:00</updated>
   <author>
     <name>leejaesung</name>
     <uri>https://nunori.github.io/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>GitHub 블로그 구축 트러블 슈팅 - gh-pages</title>
+    <link href="https://nunori.github.io/posts/jekyll-gh-pages-troubleshooting/" rel="alternate" type="text/html" title="GitHub 블로그 구축 트러블 슈팅 - gh-pages" />
+    <published>2024-12-17T00:00:00+09:00</published>
+  
+    <updated>2024-12-17T00:00:00+09:00</updated>
+  
+    <id>https://nunori.github.io/posts/jekyll-gh-pages-troubleshooting/</id>
+    <content type="text/html" src="https://nunori.github.io/posts/jekyll-gh-pages-troubleshooting/" />
+    <author>
+      <name>leejaesung</name>
+    </author>
+
+  
+    
+    <category term="GitHub" />
+    
+    <category term="Jekyll" />
+    
+  
+
+  <summary>Jekyll에서 GitHub Pages를 사용할 때 발생한 문제를 해결한 과정 기록</summary>
+
+  </entry>
 
 </feed>
 
