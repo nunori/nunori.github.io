@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://nunori.github.io/</id>
-  <title>Chirpy</title>
+  <title>누노리 샌드박스</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-17T14:31:31+09:00</updated>
+  <updated>2024-12-17T15:37:47+09:00</updated>
   <author>
     <name>leejaesung</name>
     <uri>https://nunori.github.io/</uri>
